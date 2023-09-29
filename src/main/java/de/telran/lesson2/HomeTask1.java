@@ -25,7 +25,7 @@ public class HomeTask1 {
         short myShort = 56;
         System.out.println("short: "+myShort);
 
-        float myFloat = (float) 4.7333436;
+        float myFloat = 4.7333436f;
         System.out.println("float: "+myFloat);
 
         double myDouble = 4.355453532;
