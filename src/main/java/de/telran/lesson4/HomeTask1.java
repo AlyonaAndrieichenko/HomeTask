@@ -10,6 +10,8 @@ package de.telran.lesson4;
 
 import java.util.Locale;
 
+import static jdk.nashorn.internal.runtime.regexp.joni.Syntax.Java;
+
 public class HomeTask1 {
     public static void main(String[] args) {
         String str = new String("I study Basis Java!");
@@ -19,6 +21,8 @@ public class HomeTask1 {
         System.out.println(symbol);
 
         System.out.println(str.contains("Java"));
+
+        //System.out.println(str.indexOf("Java"));
 
         String subStr = str.substring(14, 18);
         System.out.println(subStr);
