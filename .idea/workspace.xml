@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742711ea-52fe-4eec-92a6-95f9084b2ccd" name="Changes" comment="02.10.2023 Home Task1+2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/HomeTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/HomeTask3.java" afterDir="false" />
+    <list default="true" id="742711ea-52fe-4eec-92a6-95f9084b2ccd" name="Changes" comment="05.10.2023 Home Task1+2+3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/HomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/HomeTask2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeTask3">
+  <component name="RunManager">
     <configuration name="HomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson7.HomeTask2" />
       <module name="HomeTask" />
@@ -154,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696366873750</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="05.10.2023 Home Task1+2+3">
+      <created>1696776806135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696776806135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +178,7 @@
     <MESSAGE value="Home Task1" />
     <MESSAGE value="Home Task1+2" />
     <MESSAGE value="02.10.2023 Home Task1+2" />
-    <option name="LAST_COMMIT_MESSAGE" value="02.10.2023 Home Task1+2" />
+    <MESSAGE value="05.10.2023 Home Task1+2+3" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.10.2023 Home Task1+2+3" />
   </component>
 </project>
