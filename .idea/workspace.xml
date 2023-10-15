@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="742711ea-52fe-4eec-92a6-95f9084b2ccd" name="Changes" comment="05.10.2023 Home Task1+2+3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/HomeTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/HomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/HomeTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/HomeTask3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.de.telran.lesson6.HomeTask1" />
         <item itemvalue="Application.HomeTask3" />
         <item itemvalue="Application.HomeTask2" />
         <item itemvalue="Application.de.telran.lesson7.HomeTask1" />
         <item itemvalue="Application.de.telran.lesson6.HomeTask2" />
-        <item itemvalue="Application.de.telran.lesson6.HomeTask1" />
       </list>
     </recent_temporary>
   </component>
