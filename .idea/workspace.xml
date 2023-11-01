@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742711ea-52fe-4eec-92a6-95f9084b2ccd" name="Changes" comment="11.10.2023 Home Task 1+2+3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson13/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson13/HomeTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson15/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson15/HomeTask2.java" afterDir="false" />
+    <list default="true" id="742711ea-52fe-4eec-92a6-95f9084b2ccd" name="Changes" comment="16.10.2023, 18.10.2023 Home Task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson16/HomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson16/HomeTask2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.de.telran.lesson6.HomeTask1">
+  <component name="RunManager">
     <configuration name="HomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson7.HomeTask2" />
       <module name="HomeTask" />
@@ -169,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697370114502</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="16.10.2023, 18.10.2023 Home Task">
+      <created>1698092354428</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698092354428</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +194,8 @@
     <MESSAGE value="02.10.2023 Home Task1+2" />
     <MESSAGE value="05.10.2023 Home Task1+2+3" />
     <MESSAGE value="11.10.2023 Home Task 1+2+3" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.10.2023 Home Task 1+2+3" />
+    <MESSAGE value="16.10.2023, 18.10.2023 Home Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.10.2023, 18.10.2023 Home Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
